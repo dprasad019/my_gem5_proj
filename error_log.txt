@@ -1,0 +1,14 @@
+NameError: name 'O3_ARM_v7a_3' is not defined
+
+At:
+  configs/example/arm_processor.py(12): <module>
+  src/python/m5/main.py(675): main
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 24.1.0.1
+gem5 compiled Feb 15 2025 06:49:20
+gem5 started Mar 20 2025 12:44:42
+gem5 executing on GURUJI, pid 7996
+command line: build/ARM/gem5.opt configs/example/arm_processor.py
+
